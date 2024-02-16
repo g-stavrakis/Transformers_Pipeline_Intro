@@ -7,7 +7,7 @@ In this repo, I will provide a comprehensive guide on how to utilise the pipelin
 2. Use a model of your choice for inference.
 3. Post-process the results to make them human-readable.
 
-For the full guide, you can read my article on Medium:
+For the full guide, you can read my article on Medium: https://bit.ly/49i8JoP 👈
 
 I will highly recommend running this code in [Google Colab](https://colab.google)
 
